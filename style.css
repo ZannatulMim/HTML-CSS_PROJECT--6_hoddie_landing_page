@@ -287,3 +287,31 @@ header {
 .customer .img-three {
     background: url(oswaldo-ibanez-1NPUmTaiMeg-unsplash.jpg)
 }
+
+
+
+
+footer {
+    background: #1f1e1e;
+    margin-top: 10rem;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    height: 50vh;
+    font-family: var(--primary-font);
+
+}
+
+footer.container.footer-heading {
+    margin-bottom: 3rem;
+
+}
+
+footer.container.footer-primary-heading {
+    margin-bottom: 20px;
+    font-weight: normal;
+    font-size: 15px;
+
+}
